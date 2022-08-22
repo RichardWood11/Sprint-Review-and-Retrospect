@@ -1,1 +1,11 @@
 # Sprint-Review-and-Retrospect
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+  Interrupting user needs starts with having a source to gather this information. The product owner in this case had direct interviews with some users of our application to gather ideas that they would like to see in our application. Creating "user stories" helps implement these features by writing them out in a perspective of the user and in a format that simply states the desired outcome of this feature. The logic being in this format makes it easier for the SCRUM team to create the test cases, which then helps the devs know exactly what they need to implement into the software in terms of the logic and reasoning behind the feature. 
+  
+ How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+  The key takeaway from having an agile approach when developing programs is being able to adapt as you implement. Breaking out features into smaller tasks, makes work easier to consume, and much easier for the team to process in a time frame. As you continue to work on your project the ability to adapt to any challenges, or any future chanegs is possible due to the nature of agile with the constant testing, sprints, and smaller incremented work at a time. 
+  
+ What does it mean to be a good team member in software development?
+  Being able to learn and give your best effort is a great start. In the technology field, things are constantly changing, adpating, and expanding so it is extremely likly to come across problems you have never encountered before at any point in your career. Spend time individually researching, giving yourself good background knowledge of the issue and ideas you have read, and tried yourself, then recognizing that you need help and that's what being on a team is about. Actively participating in meetings, such as daily stand up and listening to your teammates in case they are opening up and expressing issues they may have encountered because it might be a problem you have good knowledge on. This leads to trustowrthy, and open working enviornment and allows for you to develop a lot more skills you did not have before, and the chance and ability to grow skills in your teammates as well. 
+  
